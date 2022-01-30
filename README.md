@@ -1,4 +1,4 @@
-[TODO: Replace with your Netflify status badge]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/43bde90f-d1aa-466e-8412-e7ab7f86b490/deploy-status)](https://app.netlify.com/sites/pensive-fermi-8cbdff/deploys)
 
 # HTML and CSS Assessment
 
@@ -8,7 +8,7 @@ For your unit 2 assessment you are required to create a website portfolio in HTM
 
 The minimum information that we expect you to include in your portfolio is the following:
 
-1. Your name
+1. Your name /
 1. Image of yourself or your avatar
 1. List of all your current and upcoming projects (you can see a list of all the [projects](#projects) you'll be creating throughout this course)
 1. A timeline of your experience (working history, education, any other experience)
