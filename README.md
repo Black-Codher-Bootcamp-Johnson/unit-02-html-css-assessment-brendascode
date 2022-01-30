@@ -8,7 +8,7 @@ For your unit 2 assessment you are required to create a website portfolio in HTM
 
 The minimum information that we expect you to include in your portfolio is the following:
 
-1. Your name
+1. Your name /
 1. Image of yourself or your avatar
 1. List of all your current and upcoming projects (you can see a list of all the [projects](#projects) you'll be creating throughout this course)
 1. A timeline of your experience (working history, education, any other experience)
